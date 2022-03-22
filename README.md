@@ -1,0 +1,2 @@
+# partners-page
+partners-page
